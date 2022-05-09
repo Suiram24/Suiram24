@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Marius 👋
 
+  * 📘 I'm an engineering student at University of Technology of Belfort-Montbéliard
+  * 💼 I'm looking for a 23-Week internship starting in September 2022 (everything is on linkedin 👀)
+  * 🎮 I like to use python to do some videogames analysis 
+  * 🌱 Currently learning how to do VR on UNITY3D
+  * 💡 Interested in Data Science, Artificial Intelligence, VR, and Software development
+  * 📫 you can reach me at marius.bozane@utbm.fr
+
+This github may look quite empty at the moment because I like to start things right before discovering something else, but I will clean and publish some projects soon 👀
 <!--
 **Suiram24/Suiram24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
