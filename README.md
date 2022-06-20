@@ -1,7 +1,7 @@
 ### Hi there, I'm Marius 👋
 
   * 📘 I'm an engineering student at University of Technology of Belfort-Montbéliard
-  * 💼 I'm looking for a 23-Week internship starting in September 2022 (everything is on linkedin 👀)
+<!--  * 💼 I'm looking for a 23-Week internship starting in September 2022 (everything is on linkedin 👀)-->
   * 🎮 I like to use python to do some videogames analysis 
   * 🌱 Currently learning how to do VR on UNITY3D
   * 💡 Interested in Data Science, Artificial Intelligence, VR, and Software development
