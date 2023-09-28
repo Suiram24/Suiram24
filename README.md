@@ -1,11 +1,11 @@
 ### Hi there, I'm Marius 👋
 
-  * 📘 I'm an engineering student at University of Technology of Belfort-Montbéliard
-<!--  * 💼 I'm looking for a 23-Week internship starting in September 2022 (everything is on linkedin 👀)-->
-  * 🎮 I like to use python to do some videogames analysis 
+  * 📘 I'm an engineering student at UTBM & UQAC
+  * 💼 I'm looking for a 23-Week internship starting in September 2023
   * 🌱 Currently working on game engines 
-  * 💡 Interested in Data Science, Game development, VR, and Software development
-  * 📫 you can reach me at marius.bozane@utbm.fr
+  * 💡 Interested in Games Engines, Game development, VR, and Software development
+  * 🎮 I like to use python to do some videogames analysis 
+  * 📫 you can reach me at mbozane@etu.uqac.ca or marius.bozane@utbm.fr
 
 This github may look quite empty at the moment because I like to start things right before discovering something else, but I will clean and publish some projects soon 👀
 <!--
