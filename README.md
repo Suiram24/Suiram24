@@ -3,7 +3,7 @@
   * 📘 I'm an engineering student at UTBM & UQAC
   * 💼 I'm looking for a 23-Week internship starting in September 2024
   * 🌱 Currently working on game engines 
-  * 💡 Interested in Games Engines, Game development, VR, and Software development
+  * 💡 Interested in Games Engines, Game Design, Game development, VR, and Software development
   * 🎮 I like to use python to do some videogames analysis 
   * 📫 you can reach me at mbozane@etu.uqac.ca or marius.bozane@utbm.fr
 
